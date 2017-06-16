@@ -15,4 +15,5 @@ BeerSong.prototype.sing = function (start, finish) {
   return this.verse;
 };
 
+
 module.exports = BeerSong;
